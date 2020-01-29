@@ -1,6 +1,8 @@
 class test() {
 
-    fun(name: String): String {return "First_name"}
+    fun gteName(name: String): String {
+        return "First_name$name"
+    }
 
     //des test
 
